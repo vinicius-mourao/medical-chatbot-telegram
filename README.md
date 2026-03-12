@@ -1,2 +1,2 @@
 # medical-chatbot-telegram
-Python tool that queries the OpenFDA API to retrieve drug information, including purpose, manufacturer and adverse effects, while using a telegram 
+A Python command-line tool that queries the OpenFDA API to retrieve drug label information including purpose, manufacturer and adverse effects. The method used to deliver the information is a telegram chatbot.
